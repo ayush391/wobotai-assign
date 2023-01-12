@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wobotai-assign/static/css/main.e6c13ad2.css",
+    "main.js": "/wobotai-assign/static/js/main.44b41ca3.js",
+    "static/js/787.a7a045b5.chunk.js": "/wobotai-assign/static/js/787.a7a045b5.chunk.js",
+    "static/media/logo.svg": "/wobotai-assign/static/media/logo.c8b6493b7b5deddbd2bbba85d493f484.svg",
+    "index.html": "/wobotai-assign/index.html",
+    "static/media/Solid_lines.svg": "/wobotai-assign/static/media/Solid_lines.0e471130c4f05a4d4f3bdc7658536923.svg",
+    "static/media/Background.svg": "/wobotai-assign/static/media/Background.86e3b937b7f6b1cd62f314cce76f6431.svg",
+    "main.e6c13ad2.css.map": "/wobotai-assign/static/css/main.e6c13ad2.css.map",
+    "main.44b41ca3.js.map": "/wobotai-assign/static/js/main.44b41ca3.js.map",
+    "787.a7a045b5.chunk.js.map": "/wobotai-assign/static/js/787.a7a045b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.44b41ca3.js"
+  ]
+}
